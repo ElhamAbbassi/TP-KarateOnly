@@ -12,7 +12,7 @@ Feature:Exemple d'application web Extern
   Then retry(3).waitFor('{^a}Karate Labs')
   When click('{^button}Google')
   And match driver.title == '#present'
-  * karate.stop(9999)
+
 
 
 

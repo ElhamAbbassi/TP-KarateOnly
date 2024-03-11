@@ -1,0 +1,14 @@
+{
+"welcome" : "{^}Welcome to your software",
+ "form" : "{a}Form Fields",
+ "name" : "{^}Name (required)",
+ "username" : "#name",
+ "checkbox": "{^}Wine",
+ "radiobutton": "{label}Blue",
+ "sibling" : "select[name=siblings]",
+ "button" : "{^button}Submit",
+ "Wine": "{^}Wine",
+ "Blue": "{label}Blue",
+ "sibling" : "select[name=siblings]",
+ "submit" : "{^button}Submit"
+}

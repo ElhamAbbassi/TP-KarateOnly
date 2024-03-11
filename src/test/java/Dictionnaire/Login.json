@@ -1,0 +1,14 @@
+{
+  "userlogin": {
+    "user": "#login-form-username",
+    "pwd": "#login-form-password"
+  },
+  "user1": {
+    "user": "VBN",
+    "pwd": "lkjhkjhggzu"
+  },
+  "user2": {
+    "user": "ABC",
+    "pwd": "bjhzftzdrtd"
+  }
+}
